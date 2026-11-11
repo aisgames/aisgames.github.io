@@ -1,7 +1,7 @@
 # aisgames.github.io
-AIS Games — developer site &amp; app-ads.txt
+AIS Games: developer site &amp; app-ads.txt
 
-AIS GAMES is a game studio from Istanbul making fresh, fun games that are hard to put down — across genres, for the web, Android and iOS.
+AIS GAMES is a game studio from Istanbul making fresh, fun games that are hard to put down, across genres, for the web, Android and iOS.
 
 - Website: https://ais.games
 - Contact: hello@ais.games
